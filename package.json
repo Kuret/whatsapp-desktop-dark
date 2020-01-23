@@ -28,7 +28,6 @@
     "semver": "6.3.0"
   },
   "devDependencies": {
-    "nexe": "3.3.2",
-    "resourcehacker": "4.2.51"
+    "nexe": "3.3.2"
   }
 }
